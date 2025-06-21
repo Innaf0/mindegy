@@ -1,3 +1,3 @@
 # mindegy
 
-test test
+test
